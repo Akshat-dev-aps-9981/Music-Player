@@ -18,10 +18,8 @@ The Music Player is a simple and elegant web-based application that allows users
 - 
 
 ## Screenshots
-<div style="display: flex; justify-content: space-between;">
-  <img src="[Screenshot_20230809-105440](https://github.com/Akshat-dev-aps-9981/Music-Player/assets/80700447/e244d133-d46e-404c-89a0-c4992e875760)" alt="Screenshot 1" width="45%">
-  <img src="[Screenshot_20230809-105504](https://github.com/Akshat-dev-aps-9981/Music-Player/assets/80700447/98d2f6fc-366d-40f4-a845-20a389cb866d)" alt="Screenshot 2" width="45%">
-</div>
+![Screenshot 1](https://github.com/Akshat-dev-aps-9981/Music-Player/assets/80700447/c4da0215-814c-4f1f-9927-e15fa7aab4e5)"
+![Screenshot 2](https://github.com/Akshat-dev-aps-9981/Music-Player/assets/80700447/eab7ec91-ec85-41c8-9cfb-c020e17b6937)"
 
 
 ## Installation
